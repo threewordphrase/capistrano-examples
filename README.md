@@ -1,0 +1,4 @@
+capistrano-examples
+===================
+
+Capistrano Examples
